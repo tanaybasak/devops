@@ -1,0 +1,20 @@
+{
+  "change_date": "2019-08-26 17:21:50",
+  "changed_by": "6816f79cc0a8016401c5a33be04be441",
+  "content": "743013dac39312007bf1bea192d3aea8",
+  "related_change_log_entry": null,
+  "related_task_entry": null,
+  "sys_class_name": "gsw_change_log",
+  "sys_created_by": "admin",
+  "sys_created_on": "2019-08-26 17:21:50",
+  "sys_id": "59c48881dba3330011c27a6139961963",
+  "sys_mod_count": 0,
+  "sys_name": "2019-08-26 17:21:50",
+  "sys_package": "539f2eefdbd7330011c27a61399619aa",
+  "sys_policy": null,
+  "sys_scope": "539f2eefdbd7330011c27a61399619aa",
+  "sys_update_name": "gsw_change_log_59c48881dba3330011c27a6139961963",
+  "sys_updated_by": "admin",
+  "sys_updated_on": "2019-08-26 17:21:50",
+  "type": 1
+}
