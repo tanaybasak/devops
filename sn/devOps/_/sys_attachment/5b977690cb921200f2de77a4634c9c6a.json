@@ -1,0 +1,20 @@
+{
+  "average_image_color": null,
+  "chunk_size_bytes": null,
+  "compressed": true,
+  "content_type": "image/png",
+  "file_name": "picture",
+  "image_height": null,
+  "image_width": null,
+  "size_bytes": 212856,
+  "size_compressed": 198430,
+  "state": "available",
+  "sys_created_by": "admin",
+  "sys_created_on": "2016-03-17 18:02:22",
+  "sys_id": "5b977690cb921200f2de77a4634c9c6a",
+  "sys_mod_count": 1,
+  "sys_updated_by": "guest",
+  "sys_updated_on": "2019-08-14 13:56:07",
+  "table_name": "ZZ_YYpc_hardware_cat_item",
+  "table_sys_id": "060f3afa3731300054b6a3549dbe5d3e"
+}
